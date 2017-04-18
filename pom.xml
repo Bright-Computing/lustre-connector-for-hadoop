@@ -18,7 +18,7 @@
     
   <properties>
     <hadoop.log.dir>${project.build.directory}/log</hadoop.log.dir>
-    <hadoop.version>2.6.0-cdh5.4.0</hadoop.version>
+    <hadoop.version>2.7.3</hadoop.version>
   </properties>
   
   <repositories>
